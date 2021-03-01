@@ -8,8 +8,7 @@ Here is a new parameter.
 Adding a list:
 - this is a new line
 - add another line
-
-Can you please add an example?
+- another test for notification
 
 
 With the Search API, you can retrieve a list of documents according to the search parameters you have specified. Clicking on one of the search hits opens the document in the UACP viewer. The Content API however, retrieves the content itself which can then be viewed in a viewer of your choice.![](loiode1762692e0340f097bedc8984d4064a_LowRes.png)
